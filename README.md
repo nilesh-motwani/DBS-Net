@@ -36,7 +36,7 @@ Traditional networks treat segmentation as a monolithic manifold. DBS-Net bifurc
 
 FFT analysis and Pearson Correlation Coefficient (PCC) empirically validate that the architecture factorizes the semantic manifold into two independent subspaces:
 
-**ρ(𝓕_body, 𝓕_edge) ≈ 0**
+**ρ(F_body, F_edge) ≈ 0**
 
 This confirms the theoretical orthogonality enforced by DBS-Net.
 
